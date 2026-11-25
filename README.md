@@ -80,30 +80,36 @@ Everything profiled for Apple Nyheter Sverige is published on APIs.io rather tha
 
 Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
 
+#### MCP servers (1)
+
+Model Context Protocol servers that expose the API to agents.
+
+- [aapl-se](https://apis.io/servers/aapl-se/aapl-se/)
+
 #### Security (2)
 
 Authentication, trust centre, and vulnerability disclosure.
 
-- [Aapl Se Authentication](https://apis.io/security/aapl-se/aapl-se-authentication/)
-- [Aapl Se Domain Security](https://apis.io/security/aapl-se/aapl-se-domain-security/)
+- [Apple Nyheter Sverige Authentication](https://apis.io/security/aapl-se/aapl-se-authentication/)
+- [Apple Nyheter Sverige Domain Security](https://apis.io/security/aapl-se/aapl-se-domain-security/)
 
 #### OAuth scopes (1)
 
 The permissions the API asks for.
 
-- [Aapl Se Scopes](https://apis.io/scopes/aapl-se/aapl-se-scopes/)
+- [Apple Nyheter Sverige Scopes](https://apis.io/scopes/aapl-se/aapl-se-scopes/)
 
 #### Plans and pricing (1)
 
 Published plans, tiers and prices.
 
-- [Aapl Se Plans Pricing](https://apis.io/plans/aapl-se/aapl-se-plans-pricing/)
+- [Apple Nyheter Sverige Plans Pricing](https://apis.io/plans/aapl-se/aapl-se-plans-pricing/)
 
 #### Rate limits (1)
 
 Published request limits.
 
-- [Aapl Se Rate Limits](https://apis.io/rate-limits/aapl-se/aapl-se-rate-limits/)
+- [Apple Nyheter Sverige Rate Limits](https://apis.io/rate-limits/aapl-se/aapl-se-rate-limits/)
 
 ## Where to find this API
 
@@ -116,18 +122,18 @@ Links to the company's own pages. This repository publishes no copy of their spe
 
 ## API Evangelist rating
 
-**Kin Score 16.8** — emerging · rubric 0.25.0 · scored 2026-10-31
+**Kin Score 17.3** — emerging · rubric 0.28.1 · scored 2026-11-21
 
 | Facet | Score |
 |---|---|
-| Discoverability | 66.1 |
+| Discoverability | 73.2 |
 | Contract quality | 0.0 |
-| Contract governance | 16.4 |
+| Contract governance | 18.2 |
 | Operational transparency | 0.0 |
 | Developer ergonomics | 23.8 |
-| Access clarity | 10.5 |
+| Access clarity | 12.8 |
 
-**Agent readiness 8.9** — agent-aware
+**Agent readiness 13.3** — agent-aware
 
 | Agent-readiness dimension | Result |
 |---|---|
@@ -152,8 +158,12 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Agentic Commerce | — |
 | Pagination Ratio | na |
 | Operation Distinctiveness | na |
+| MCP Tool Quality | full |
+| Onboarding Descriptor | — |
+| Dns Aid Index | na |
+| Markdown Negotiation | yes |
 
-**Regulatory alignment 24.5** — Horizontal (data, software, accessibility, platform)
+**Regulatory alignment 18.6** — Horizontal (data, software, accessibility, platform)
 
 The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/aapl-se/](https://apis.io/providers/aapl-se/).
 
